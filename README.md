@@ -8,7 +8,7 @@ KnockKnock is a tool for checking whether the [static site server](https://githu
 
 ## usage
 
-you can compile it yourself, or you can download one of the binaries in the [releases page](https://github.com/donuts-are-good/eclaire/releases/latest)
+you can compile it yourself, or you can download one of the binaries in the [releases page](https://github.com/donuts-are-good/knockknock/releases/latest)
 
 **To build:**
 
